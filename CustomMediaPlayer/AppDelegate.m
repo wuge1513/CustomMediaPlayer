@@ -3,7 +3,7 @@
 //  CustomMediaPlayer
 //
 //  Created by Liu Lei on 12-3-27.
-//  Copyright (c) 2012年 Coolinsoft. All rights reserved.
+//  Copyright (c) 2012年 LiuLei. All rights reserved.
 //
 
 #import "AppDelegate.h"
